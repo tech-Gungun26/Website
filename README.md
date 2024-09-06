@@ -1,7 +1,7 @@
 # Website
 Meerabai College Website Project
 Project Overview
-This project is a collaborative effort by Gungun, Esha, and Kalyani to build a website for Meerabai College, part of Delhi Skill and Entrepreneurship University (DSEU). The website is designed using HTML, CSS, and Java, and will be linked to the main DSEU website to fetch and display new updates.
+This project is a collaborative effort by Gungun, Kalyani, and Esha to build a website for Meerabai College, part of Delhi Skill and Entrepreneurship University (DSEU). The website is designed using HTML, CSS, and Java, and will be linked to the main DSEU website to fetch and display new updates.
 
 Key Features
 Responsive Design: A user-friendly interface that works seamlessly on both desktop and mobile devices.
@@ -18,9 +18,10 @@ Provide an informative and visually appealing online presence for Meerabai Colle
 Ensure easy access to updates and events happening at DSEU and Meerabai College.
 Enhance the college's digital communication and engagement with students and faculty.
 Team Members
-Gungun 
-Esha 
+Gungun
 Kalyani 
+Esha 
+
 How to Use
 Clone the repository:
 
